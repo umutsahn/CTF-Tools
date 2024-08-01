@@ -1,4 +1,5 @@
 # https://tryhackme.com/r/room/enumerationbruteforce
+# https://medium.com/@sahinumut/python-ile-http-servisine-y%C3%B6nelik-brute-force-sald%C4%B1r%C4%B1lar%C4%B1-d18721abe90a
 import requests
 import base64
 import re
